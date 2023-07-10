@@ -27,5 +27,4 @@ I'm passionate about automating all things and making development processes more
 
 ## ⚡ Fun fact
 
-I love reading. 🏞️📷
-
+I love reading.  📖
