@@ -1,37 +1,31 @@
-# Osvaldo Marte
+# Hello, World! 👋
 
-## DevOps Architect | GCP Cloud Specialist
+I'm Osvaldo Marte, a GitOps Full Stack Developer!
 
-Welcome to my GitHub profile! I'm Osvaldo Marte, a DevOps Architect with expertise in Google Cloud Platform (GCP). I am passionate about leveraging cloud technologies to build scalable and reliable solutions for businesses.
+## 👨‍💻 About Me
 
-### Skills
+I'm passionate about automating all things and making development processes more efficient. I love working with modern technologies and am always looking to learn something new.
 
-- Cloud Architecture Design and Implementation with GCP
-- CI/CD Automation using Jenkins, CircleCI, and GitLab CI/CD
-- Container Orchestration with Kubernetes and Google Kubernetes Engine (GKE)
-- Infrastructure-as-Code (IaC) using Terraform and Deployment Manager
-- Application and System Monitoring using Stackdriver, Prometheus, and more
-- Task and Workflow Automation using Ansible and Chef
-- Cloud Database Configuration and Management (Cloud SQL, Firestore, Bigtable)
+## 🛠️ Technologies & Tools
 
-### Projects
+- GitOps
+- Kubernetes
+- Docker
+- Terraform
+- JavaScript/TypeScript
+- Node.js
+- React.js
+- Python
 
-- Migrated legacy systems to GCP, reducing infrastructure costs and improving scalability.
-- Implemented automated CI/CD pipelines, resulting in faster and more reliable software deployments.
-- Orchestrated Kubernetes clusters on GKE, enabling efficient containerized application management.
-- Designed and implemented highly available and fault-tolerant cloud architectures for critical applications.
-- Led teams in adopting DevOps practices, improving collaboration and efficiency.
+## 🌱 I’m currently learning
 
-### Certifications
+- GCP
 
-- Google Cloud Certified - Professional Cloud Architect
-- Google Cloud Certified - Professional DevOps Engineer
+## 📫 How to reach me
 
-### Let's Connect!
+- LinkedIn: Here
 
-Feel free to reach out to me through the following channels:
+## ⚡ Fun fact
 
-- LinkedIn: [Osvaldo Marte](https://www.linkedin.com/in/osvaldomarte)
-- Personal Website: [www.osvaldomarte.com](https://www.osvaldomarte.com)
+I love reading. 🏞️📷
 
-Thank you for visiting my profile. I look forward to connecting with you!
