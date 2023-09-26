@@ -9,7 +9,7 @@ With experience stretching from 2014 to the present in tech and engineering, I'v
 ## 🛠️ Technologies & Tools
 
 - **Cloud Platforms**: AWS 🌩️, GCP ☁️
-- **DevOps**: GitOps 🔄, Kubernetes ☸️, Docker 🐳, Terraform 🛠️
+- **DevOps**: GitOps 🔄, Kubernetes ☸️, Docker 🐳, CDK 🛠️
 - **Backend**: Node.js 🟢, Python 🐍
 - **Frontend**: React.js ⚛️
 - **Design Tools**: Figma 🎨
