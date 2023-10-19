@@ -15,9 +15,6 @@ With experience stretching from 2014 to the present in tech and engineering, I'v
 - **Design Tools**: Figma 🎨
 - **Languages**: JavaScript/TypeScript 📜
 
-## 📊 Wakatime
-[![Osvaldo Marte's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ojmarte)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌱 What I'm Up To
 
 I'm continuously honing my expertise in cloud technologies, particularly AWS. I'm also diving deep into GCP to broaden my skill set.
