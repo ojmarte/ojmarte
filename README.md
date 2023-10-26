@@ -6,8 +6,6 @@ I'm Osvaldo Marte, a Software Architect & Multi-disciplinary Developer specializ
 
 With experience stretching from 2014 to the present in tech and engineering, I've worn many hats: Full Stack Developer, Backend Specialist, Frontend Artisan, Product Designer, and more. My passion is automating workflows to make development processes agile and efficient. I'm an AWS aficionado but also have experience in GCP.
 
-[![wakatime](https://wakatime.com/badge/user/018b4989-18b5-4110-9b77-bf755e799f80.svg)](https://wakatime.com/@018b4989-18b5-4110-9b77-bf755e799f80)
-
 ## 🛠️ Technologies & Tools
 
 - **Cloud Platforms**: AWS 🌩️, GCP ☁️
