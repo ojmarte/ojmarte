@@ -1,39 +1,38 @@
 # Hello, World! 👋
 
-I'm Osvaldo Marte, a Software Architect & Multi-disciplinary Developer specializing in GitOps!
+I'm Osvaldo Marte, a DevOps Engineer with a unique blend of civil engineering and comprehensive expertise in modern programming languages and advanced AWS cloud solutions.
 
 ## 👨‍💻 About Me
 
-With experience stretching from 2014 to the present in tech and engineering, I've worn many hats: Full Stack Developer, Backend Specialist, Frontend Artisan, Product Designer, and more. My passion is automating workflows to make development processes agile and efficient. I'm an AWS aficionado but also have experience in GCP.
+Since my career pivot from civil engineering to tech in 2014, I've developed a broad skill set in backend development and cloud architecture. My roles have ranged from Backend Specialist to Cloud Architect, with a focus on DevOps practices. My expertise lies in automating workflows and optimizing development processes for efficiency, with a primary focus on AWS technologies.
 
 ## 🛠️ Technologies & Tools
 
-- **Cloud Platforms**: AWS 🌩️, GCP ☁️
-- **DevOps**: GitOps 🔄, Kubernetes ☸️, Docker 🐳, CDK 🛠️
+- **Cloud Platforms**: AWS 🌩️
+- **DevOps**: Kubernetes ☸️, Docker 🐳, Jenkins, CDK 🛠️
 - **Backend**: Node.js 🟢, Python 🐍
-- **Frontend**: React.js ⚛️
-- **Design Tools**: Figma 🎨
-- **Languages**: JavaScript/TypeScript 📜
+- **Databases**: MongoDB, DynamoDB, MySQL, Aurora, PostgreSQL
+- **Languages**: JavaScript/TypeScript 📜, English, Spanish
 
 ## 🌱 What I'm Up To
 
-I'm continuously honing my expertise in cloud technologies, particularly AWS. I'm also diving deep into GCP to broaden my skill set.
+I'm continuously deepening my knowledge and expertise in AWS cloud technologies, exploring its vast capabilities and solutions.
 
 ## 📚 Personal Interests
 
-I love reading books, especially those focused on business strategies 📖. My ideal day involves writing code, automating something interesting, and designing digital products that solve real-world problems.
+Passionate about reading, especially books on business strategies 📖. I thrive on coding, innovating through automation, and designing solutions that address real-world problems.
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Click Here](https://www.linkedin.com/in/ojmarte/)
+- **LinkedIn**: [Click Here](https://www.linkedin.com/in/osvaldo-marte-48027b24a/)
 
 ## 🚀 Career Highlights
 
-- **Software Architect**: Designed and implemented scalable solutions across multiple projects.
-- **Product Designer**: Translated customer needs into functional designs, proficient in using Figma for prototyping.
-- **AWS Specialist**: Architected and managed robust AWS environments.
+- **AWS Certifications**: Proud holder of multiple AWS certifications, showcasing my advanced proficiency.
+- **Project Leadership**: Successfully led major tech projects including database migrations and Python version upgrades.
+- **DevOps Engineering**: Enhanced CI/CD processes, configured Jenkins, and implemented effective containerization strategies.
 
 ## ⚡ Fun Facts
 
-- Books about businesses not only entertain me but also equip me with insights that I can apply in my projects 📚.
-- My perfect day? Writing code, automating something new, and sketching out the next great digital product in Figma 🎨🤖.
+- I find great inspiration in business literature, using insights to drive innovation in my projects 📚.
+- My ideal day includes diving into code, creating new automation solutions, and sketching digital products that make a difference 🎨🤖.
