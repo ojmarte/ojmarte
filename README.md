@@ -11,8 +11,8 @@ Since my career pivot from civil engineering to tech in 2014, I've developed a b
 - **Cloud Platforms**: AWS 🌩️
 - **DevOps**: Kubernetes ☸️, Docker 🐳, Jenkins, CDK 🛠️
 - **Backend**: Node.js 🟢, Python 🐍
-- **Databases**: MongoDB, DynamoDB, MySQL, Aurora, PostgreSQL
-- **Languages**: JavaScript/TypeScript 📜, English, Spanish
+- **Databases**: DocumentDB (MongoDB), DynamoDB, MySQL, Aurora, PostgreSQL
+- **Languages**: Python, JavaScript/TypeScript 📜, English, Spanish
 
 ## 🌱 What I'm Up To
 
