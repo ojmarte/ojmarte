@@ -2,6 +2,8 @@
 
 I'm Osvaldo Marte, a DevOps Engineer with a unique blend of civil engineering and comprehensive expertise in modern programming languages and advanced AWS cloud solutions.
 
+[![GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=o.j.marte&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&ring=6BDE84&fire=6BDE84&currStreakLabel=6BDE84)](https://git.io/streak-stats)
+
 ## 👨‍💻 About Me
 
 Since my career pivot from civil engineering to tech in 2014, I've developed a broad skill set in backend development and cloud architecture. My roles have ranged from Backend Specialist to Cloud Architect, with a focus on DevOps practices. My expertise lies in automating workflows and optimizing development processes for efficiency, with a primary focus on AWS technologies.
@@ -46,7 +48,6 @@ Passionate about reading, especially books on business strategies 📖. I thrive
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rofazayn&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true) -->
 <!--![Abderraouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofazayn&show_icons=true&theme=dark) -->
-[![GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=o.j.marte&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&ring=6BDE84&fire=6BDE84&currStreakLabel=6BDE84)](https://git.io/streak-stats)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=o.j.marte&langs_count=10&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
 
 
