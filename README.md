@@ -39,9 +39,8 @@ Passionate about reading, especially books on business strategies 📖. I thrive
 - I find great inspiration in business literature, using insights to drive innovation in my projects 📚.
 - My ideal day includes diving into code, creating new automation solutions, and sketching digital products that make a difference 🎨🤖.
 
-# Hey, my name is Rauf
 
-- 🌱  I’m currently learning advanced JavaScript, TypeScript and GraphQL, Microservices, Docker & Kubernetes.
+- 🌱  I’m currently learning advanced Python, JavaScript, TypeScript and GraphQL, Microservices, Docker & Kubernetes.
 - 🔭  I’m looking to collaborate with people on interesting projects.
 - 💬  Ask me anything concerning software engineering.
 - 📫  How to reach me? send an email to [o.j.marte@gmail.com](o.j.marte@gmail.com)
